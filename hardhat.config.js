@@ -20,12 +20,12 @@
    defaultNetwork: "ropsten",
    networks: {
    ropsten: {
-     url: 'https://eth-ropsten.alchemyapi.io/v2/RPjIfVep7ZFXk40yYUitifq1Nq8vm00J', // Alchemy > Apps > View >  Https
+     url: '//Alchemy Key//', // Alchemy > Apps > View >  Https
      chainId: 3, 
-     accounts: ['32e7b69f648cf1f6b8481924556fb906c25e2866c34c88eedec8e9c4e74685e3'] // metamask Ropsten Private Key
+     accounts: ['//metamask Ropsten Private Key//'] // metamask Ropsten Private Key
    },
  },
  etherscan:{
-  apiKey: "4MYDCCMW8Z9RTRJKSSR4FTIPFYXHVCEWZZ" // etherscan API 키 
+  apiKey: "//Etherscan API Key//" // etherscan API 키 
 }
 };
